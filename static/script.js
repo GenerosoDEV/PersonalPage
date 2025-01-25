@@ -7,6 +7,10 @@ document.addEventListener("DOMContentLoaded", function () {
 })
 
 projetos = {
+    "OfertasConstruai": "Desenvolvido com HTML/CSS Vanilla. Com redirecionamento para à loja através de CEP ou Localização do navegador.",
+    "WppMonitor":"Atuei como desenvolvedor full-stack, utilizando NodeJS, Sequelize e WhatsappWEB.js. Projeto desenvolvido com o intuito de monitoramento e automação de WhatsApps empresariais.",
+    "IntegracaoAC":"Integrador de notas fiscais de servidores que hospedam o ERP ConstruShow para cloud, com intuito de análise de dados.",
+    "VendeuLaranjou": "<p>Atuei como desenvolvedor, utilizando Flask, SQLAlchemy para back-end e dados, e HTML/CSS Vanilla para front-end.</p>",
     "ConstruAI": "<h3>Meu primeiro projeto desenvolvido para a Rede Construai.</h3><p>Um site com diversos prompts prontos, onde o usuário insere informações e tem uma resposta rápida do ChatGPT. Também nesse site, há um aba de 'chat' onde você pode conversar com o ChatGPT com uma Persona.<br>Fui o principal desenvolvedor atuando como full-stack, nesse projeto foi utilizado: Python, Firebase Realtime Database, OpenAI API, JavaScript, HTML, CSS.</p>",
     "UaiTask": "<p>Atuei como desenvolvedor back-end, onde desenvolvi todo o sistema de gerenciamento de tarefas.</p>",
     "Prestação de Contas": "<p>Este é um site de prestação de contas para os parceiros de marketing da Rede Construai. Foi desenvolvido em 2024, com foco para o ano de 2025. Atuei como Full-Stack, nesse projeto foi utilizado: Python, Firebase Realtime Database, Google Drive API, JavaScript, HTML, CSS</p>",
